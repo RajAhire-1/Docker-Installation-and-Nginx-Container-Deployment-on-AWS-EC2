@@ -72,7 +72,7 @@ docker-nginx-project/
 
 The EC2 instance is launched and running successfully on AWS.
 
-![](img/img/aws_instance.png)
+![](img/aws_instance.png)
 
 ---
 
